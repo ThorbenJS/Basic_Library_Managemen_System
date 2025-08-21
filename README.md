@@ -1,1 +1,3 @@
 First real programming course project. Very primative code and the use of objects is pretty non-existent but the idea was to learn the basics of programming and pytohn with this project. A lot of the codebase and comments are also in finnish and not english.
+
+To run the program run the file "main.py".
